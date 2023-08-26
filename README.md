@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshat Joshi</h1>
-<h3 align="center">BTech Computer Science (4th Year) student. Cyber Security Enthusiast. Looking for an internship opportunity in the area of Cryptography / Information Security / Blockchain Technology</h3>
-<h3 align="center"> I am pursuing my BTech degree from NIIT University. In the process of developing a base for becoming a Security Engineer. Currently building a base in Blockchain Development. Worked in Application Security and Computer Forensics. Experienced in programming in Python and C++. Additionally worked on web development projects. Well equipped with using Microsoft Office applications. </h3>
-<h3 align="center">Worked in many teams. Experienced in both: working under a leader, and leading a team. Logical and Analytical approach for Problem Solving. A firm believer of "Smart Work is better than Hard Work." Aspiring to develop technical knowledge in a channelized manner to achieve my goals.</h3>
+<h3 align="justify">BTech Computer Science (4th Year) student. Cyber Security Enthusiast. Looking for an internship opportunity in the area of Cryptography / Information Security / Blockchain Technology</h3>
+<h3 align="justify"> I am pursuing my BTech degree from NIIT University. In the process of developing a base for becoming a Security Engineer. Currently building a base in Blockchain Development. Worked in Application Security and Computer Forensics. Experienced in programming in Python and C++. Additionally worked on web development projects. Well equipped with using Microsoft Office applications. </h3>
+<h3 align="justify">Worked in many teams. Experienced in both: working under a leader, and leading a team. Logical and Analytical approach for Problem Solving. A firm believer of "Smart Work is better than Hard Work." Aspiring to develop technical knowledge in a channelized manner to achieve my goals.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshat7274&label=Profile%20views&color=0e75b6&style=flat" alt="akshat7274" /> </p>
 
